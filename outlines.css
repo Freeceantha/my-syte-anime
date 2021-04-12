@@ -130,3 +130,6 @@ aside::before {
 nav::before {
   content: "nav";
 }
+.heading {
+color: #red;
+}
